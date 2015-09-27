@@ -1,0 +1,2 @@
+
+A while ago, I was working on a project in beYou media. Back then, I was a trainee there. I was asked to use Github for uploading my work on a private repo. At first, I found the git tool easy to work with. I read couple of git cheat sheets, watched “Try Git” and “Git Real” on Codeschool and experimented a little bit with the git commands on my own. I was no Git expert. I just knew how to pull, push, commit, make/delete branches, etc.
